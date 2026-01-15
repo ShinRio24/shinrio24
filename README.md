@@ -11,4 +11,4 @@
 
 As the founder of **MangaAI**, I’m developing cutting-edge platforms that transform manga into interactive video experiences using OCR, character recognition, and large language models.
 
-[A link to my resume](Rio Shintani Resume.pdf)
+[A link to my resume](Rio%20Shintani%20Resume.pdf)
